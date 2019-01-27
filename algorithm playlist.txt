@@ -1,0 +1,5 @@
+1. Scan database for the playlist names
+2. Store the playlist names in a listmodel object
+3. Scan the database for playlist songs using the playlistnames listmodel object
+2. Store the playlist song in a treemap data structure
+3. 

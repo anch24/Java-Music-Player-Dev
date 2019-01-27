@@ -1,0 +1,29 @@
+>>MusicPlayer
+
+*DefaultList
+-MusicName
+-MusicPath
+-MusicTime
+
+--------------------------------------------
+|initPlayer
+| LoadSongs
+| List
+| Playlist 
+| PlayerDB
+
+---------------------------------------------
+
+LoadSongs
+-
+
+
+
+
+
+--------------------------------------------
+
+PlayerDB
+-connect()
+-createTable(String tableName)
+-insertDataIntoTable(String tableName, int id)
